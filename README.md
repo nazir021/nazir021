@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-This is **Monir Hossain Showrav**. Connect with me here -
+This is **Nazir Ahmed**. Connect with me here -
 
 [![Linkedin Badge](https://img.shields.io/badge/-shourov-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shourov-cse-1810/)](https://www.linkedin.com/in/shourov-cse-1810/)
 [![Facebook Badge](https://img.shields.io/badge/-shourov-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/shourov.cse1810/)](https://www.facebook.com/shourov.cse1810/)
