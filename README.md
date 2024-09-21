@@ -2,7 +2,7 @@
 
 This is **Nazir Ahmed**. Connect with me here -
 
-[![Linkedin Badge](https://img.shields.io/badge/-shourov-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazir021/)](https://www.linkedin.com/in/nazir021/)
+[![Linkedin Badge](https://img.shields.io/badge/-nazir-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazir021/)](https://www.linkedin.com/in/nazir021/)
 [![Facebook Badge](https://img.shields.io/badge/-shourov-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/shourov.cse1810/)](https://www.facebook.com/shourov.cse1810/)
 [![Twitter Badge](https://img.shields.io/badge/-@shourov-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/shourov_return0)](https://twitter.com/shourov_return0)
 [![Medium Badge](https://img.shields.io/badge/-@rshourov156-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@rshourov156/)](https://medium.com/@rshourov156)
