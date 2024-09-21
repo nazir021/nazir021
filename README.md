@@ -10,7 +10,7 @@ This is **Nazir Ahmed**. Connect with me here -
 
 
 
-- 🏢 I'm currently working as a Software Engineer at **Cognitus Consulting LLC**
+- 🏢 I'm currently working as a Lecturer at **IUBAT - International University of Business Agriculture and Technology**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
@@ -33,10 +33,10 @@ This is **Nazir Ahmed**. Connect with me here -
   ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
 
-- ⚡️ Fun fact: I love to eat and travel
+- ⚡️ Fun fact: I Love Travelling and Playing Piano
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shourov-sorkar" alt="shourov-sorkar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nazir021" alt="nazir021" /> </p>
 
 
 
@@ -44,9 +44,9 @@ This is **Nazir Ahmed**. Connect with me here -
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/shourov-sorkar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shourov-sorkar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shourov-sorkar&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nazir021">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nazir021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nazir021&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
