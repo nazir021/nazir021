@@ -5,7 +5,7 @@ This is **Nazir Ahmed**. Connect with me here -
 [![Linkedin Badge](https://img.shields.io/badge/-nazir-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nazir021/)](https://www.linkedin.com/in/nazir021/)
 [![Facebook Badge](https://img.shields.io/badge/-nazir-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/nazir021/)](https://www.facebook.com/nazir021/)
 [![Twitter Badge](https://img.shields.io/badge/-@nazir?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/shourov_return0)](https://twitter.com/shourov_return0)
-[![Medium Badge](https://img.shields.io/badge/-@nazir-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@rshourov156/)](https://medium.com/@rshourov156)
+[![Medium Badge](https://img.shields.io/badge/-@rshourov156-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@rshourov156/)](https://medium.com/@rshourov156)
 [![Instagram Badge](https://img.shields.io/badge/-nazir.021-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/nazir.021/)](https://www.instagram.com/nazir.021/)
 
 
