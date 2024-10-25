@@ -53,26 +53,26 @@ This is **Nazir Ahmed**. Connect with me here -
 <h3 align="center">📊 Statistics 📊</h3>
 
 <h3 align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shourov-sorkar&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="shourov-sorkar"/>
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nazir021&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="nazir021"/>
 </h3>
 
 
 <b>&#128200; Competitive Programming</b>
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/shourov_return0?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://leetcard.jacoblin.cool/nazir021?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/ahmmed_abir/cf-stats/main/output/light_card.svg" /> -->
 </p>
 
 <h2 align="center">💡 Problem Solving Profiles <img src="https://github.com/shourov-sorkar/shourov-sorkar/blob/master/1.gif?raw=true" width="100px"></h2>
 
 <p align="center">
-<a href="https://www.hackerrank.com/ID_18103142"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
-<a href="https://codeforces.com/profile/shourov_return0"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h5 align="center"> Total Solved: 183 | Total Tried: 240 | Total Submissions: 210</h5>
+<a href="https://www.hackerrank.com"><img src="https://img.shields.io/badge/hackerrank-2FC866?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a><br>
+<a href="https://codeforces.com"><img src="https://img.shields.io/badge/codeforces-yellow?&style=for-the-badge&logo=codeforces&logoColor=white"/></a></p> <h5 align="center"> updating soon...</h5>
 
 
 
-# Read my recent blog's
+<!--# Read my recent blog's
 
 - [Get covid update using Python Script](https://medium.com/@rshourov156/how-to-get-information-regarding-covid-19-with-python-script-3ab56655aef0)
 - [Python text to speech convert](https://medium.com/@rshourov156/text-to-speech-in-python-a12ba0c61779)
